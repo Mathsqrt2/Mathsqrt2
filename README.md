@@ -14,7 +14,7 @@ as well as some work involving Adobe's ExtendScript
 <img  src="https://skillicons.dev/icons?i=react,angular" />
 
 ### Backend
-<img  src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<img  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
 
 ### Database
  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
