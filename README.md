@@ -1,20 +1,24 @@
-# Hi, there
+# Hi, there 😎
+### Welcome to my profile!
 
-### Thanks for visiting my profile
- 
-I'm a computer engineering student who writes code in accordance with clean code principles. 
-The code must be readable without any comments. 
-On this profile, you'll find several case studies of projects completed using the tech stack below, 
-as well as some work involving Adobe's ExtendScript
+I'm a computer science student focused on writing clean code.
+I take photos, make videos, and have a keen interest 
+in data processing and image editing. I also build bots 
+for managing groups on Telegram and Discord.
+On this profile, you’ll find some of my projects 
+created with the tech stack listed below.
+There are also a few examples showcasing the somewhat exotic ExtendScript,
+which allows for modifying Adobe Creative Cloud applications.
 
 ### Essentials
-<img  src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,git,github,vscode,ps,ai,xd"  />
-
+<img  src="https://skillicons.dev/icons?i=git,github,vscode,vite,blender,ps,ai,xd,ubuntu,windows"  />
+<img  src="https://skillicons.dev/icons?i=html,css,typescript,javascript,sass,rxjs"  />
+---
 ### Frontend
-<img  src="https://skillicons.dev/icons?i=react,angular" />
-
+<img  src="https://skillicons.dev/icons?i=react,angular"  />
+---
 ### Backend
-<img  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
-
+<img  src="https://skillicons.dev/icons?i=python,nodejs,express,nestjs,discordjs,php"  />
+---
 ### Database
- <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<img  src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"  />
