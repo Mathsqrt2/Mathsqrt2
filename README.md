@@ -13,7 +13,7 @@ which allows for modifying Adobe Creative Cloud applications.
 ---
 
 ### Essentials
-<img  src="https://skillicons.dev/icons?i=git,github,vscode,vite,blender,ps,ai,xd,ubuntu,windows,docker"  />
+<img  src="https://skillicons.dev/icons?i=git,github,vscode,vite,blender,ps,pr,ae,ai,xd,ubuntu,windows,docker"  />
 <img  src="https://skillicons.dev/icons?i=html,css,typescript,javascript,sass,rxjs"  />
 
 ---
